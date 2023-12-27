@@ -1,5 +1,5 @@
 ## 介绍
-青桔API-公益性质的接口快速响应，qq昵称获取、指定IPv4/IPv6地址信息查询、客户端IPv4/IPv6地址查询，优先支持IPv6地址查询、一言、提取图片主题色、天气指定地区查询、米游社随机头像
+青桔API接口-公益性质的api接口快速响应，qq昵称获取、指定IPv4/IPv6地址信息查询、客户端IPv4/IPv6地址查询，优先支持IPv6地址查询、一言、提取图片主题色、天气指定地区查询、米游社随机头像
 ## API接口列表
 - https://api.qjqq.cn/api/district?ip=2408:820c:681b:5ad0:585f:2fc:346a:4bb4 (指定IPv4/IPv6地址信息查询)
 - https://api.qjqq.cn/api/Img（默认）
